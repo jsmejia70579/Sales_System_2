@@ -1,0 +1,13 @@
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\bin\Debug\netcoreapp3.1\Sales-System.exe
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\bin\Debug\netcoreapp3.1\Sales-System.deps.json
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\bin\Debug\netcoreapp3.1\Sales-System.runtimeconfig.json
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\bin\Debug\netcoreapp3.1\Sales-System.runtimeconfig.dev.json
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\bin\Debug\netcoreapp3.1\Sales-System.dll
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\bin\Debug\netcoreapp3.1\Sales-System.pdb
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\obj\Debug\netcoreapp3.1\Sales-System.csprojAssemblyReference.cache
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\obj\Debug\netcoreapp3.1\Sales-System.AssemblyInfoInputs.cache
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\obj\Debug\netcoreapp3.1\Sales-System.AssemblyInfo.cs
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\obj\Debug\netcoreapp3.1\Sales-System.csproj.CoreCompileInputs.cache
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\obj\Debug\netcoreapp3.1\Sales-System.dll
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\obj\Debug\netcoreapp3.1\Sales-System.pdb
+C:\Users\Juan Salvador\Desktop\UMANIZALES\PROGRAMACION III\sales-system\Sales-System\obj\Debug\netcoreapp3.1\Sales-System.genruntimeconfig.cache
